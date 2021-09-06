@@ -1,5 +1,5 @@
 # STM32F4-Custom-Bootloader
-This is a simple bootloader project . through it , yo can burn a new image into flash and also erase flash sectors.
+This is a simple bootloader project . through it , you can burn a new image into flash and also erase flash sectors.
 
 
 ###### In this project the Bootloader program will run only if we pressed the on board user button during 30 seconds from reset , then you can follow the bootloader Instructions and  do whatever you want with it .
