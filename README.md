@@ -2,8 +2,8 @@
 This is a simple boot loader project . through it , you can flash a new image into flash , erase specific flash sectors.
 
 
-###### In this project the Bootloader program will run only if we pressed the on board user button during 30 seconds from reset , then you can follow the bootloader Instructions and  do whatever you want with it .
-###### the Bootloader is communicating with the host through USART1 . 
+###### In this project the Bootloader would run only if we pressed the on board user button during 30 seconds from reset , then you can follow the bootloader Instructions and  do whatever you want with it.
+###### the Bootloader is communicating with the host through USART1. 
 
 
 ###### *Please Note that :*
@@ -19,5 +19,5 @@ This is a simple boot loader project . through it , you can flash a new image in
         
         
 
-###### -After making the previous Steps you can send instructions to the bootloader using USB to UART Converter , then you can burn the produced binary file using any terminal software I used This one :https://www.narom.no/undervisningsressurser/the-cansat-book/the-primary-mission/using-the-radio/terminal-program/ .
+###### -After making the previous Steps you can send instructions to the bootloader using USB to UART Converter , then you can flash your binary file using any terminal software I used This one :https://www.narom.no/undervisningsressurser/the-cansat-book/the-primary-mission/using-the-radio/terminal-program/ .
 
