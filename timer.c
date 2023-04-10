@@ -51,8 +51,6 @@ void TIM1_BRK_TIM9_IRQHandler(void )
 		return ;
 	}
 
-
-	//Do whatever the hell you want to do
 	JumpToUserCode();
 }
 
