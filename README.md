@@ -2,7 +2,7 @@
 This is a simple boot loader project . through it , you can flash a new image into flash , erase specific flash sectors.
 
 
-###### In this project the Bootloader would run only if we pressed the on board user button during 30 seconds from reset , then you can follow the bootloader Instructions and  do whatever you want with it.
+###### In this project the Bootloader would run only if we pressed the on board user button during 30 seconds from reset , then you can follow the bootloader Instructions.
 ###### the Bootloader is communicating with the host through USART1. 
 
 
